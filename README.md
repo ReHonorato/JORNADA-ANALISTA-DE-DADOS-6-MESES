@@ -25,7 +25,7 @@ O conteúdo está dividido por meses de estudo, simulando um bootcamp prático:
 - **Mês 3:** Python para Análise de Dados
 - **Mês 4:** Business Intelligence e Visualização de Dados
 - **Mês 5:** Projetos Reais com Dados
-- **Mês 6:** Construção de Portfólio e Preparação para Entrevistas
+- **Mês 6:** Construção de Portfólio
 
 Cada mês contém:
 
