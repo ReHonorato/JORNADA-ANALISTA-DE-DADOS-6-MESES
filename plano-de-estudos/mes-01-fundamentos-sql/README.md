@@ -18,7 +18,7 @@ Construir fundamentos sólidos em banco de dados e aprender a realizar consultas
 
 - [ ] Relacionamentos entre tabelas
 
-- [ ] SQL básico:
+- [ ] Consultas básicas:
 
   - SELECT
   - WHERE 
@@ -45,7 +45,7 @@ Construir fundamentos sólidos em banco de dados e aprender a realizar consultas
 
 # 📊 Projeto do mês
 
-- [ ] Relatório de Vendas em SQL
+- [ ] **Relatório de Vendas em SQL**
 
 Análise de uma base de dados de e-commerce para responder perguntas como:
 
