@@ -8,12 +8,18 @@ Desenvolver habilidades para organizar, analisar e visualizar dados em planilhas
 
 # 📚 Conteúdos estudados
 
-- [ ] Limpeza e padronização de dados
+- [ ] Limpeza e padronização de dados COM **Power Query**
+      - Remoção de erros
+      - Padronização de colunas
+      - Tratamento de dados duplicados
+      - Comparação entre base original e base tratada
+      
 - [ ] Fórmulas importantes:
 
   - SE
   - PROCV / XLOOKUP
   - SOMASES
+  - Funçoes condicionais de busca
 
 - [ ] Tabelas Dinâmicas
 - [ ] Gráficos e relatórios visuais
@@ -22,6 +28,7 @@ Desenvolver habilidades para organizar, analisar e visualizar dados em planilhas
   - Média, mediana
   - Desvio padrão
   - Correlação entre variáveis
+  - Diferença entre correlação e causalidade
 
 # 💻 Práticas desenvolvidas
 
