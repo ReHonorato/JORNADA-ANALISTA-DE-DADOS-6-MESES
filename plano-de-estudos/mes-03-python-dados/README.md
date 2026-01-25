@@ -9,10 +9,8 @@ Aprender a utilizar Python para automatizar análises e explorar dados de forma 
 # 📚 Conteúdos estudados
 
 - [ ] Fundamentos da linguagem Python
-
 - [ ] Estruturas de dados (listas, dicionários)
-
-- [ ] Introdução ao Pandas:
+- [ ] Introdução ao Pandas e Numpy:
 
   - DataFrames
   - Filtros e seleções
@@ -22,17 +20,17 @@ Aprender a utilizar Python para automatizar análises e explorar dados de forma 
 
   - Valores nulos
   - Duplicados
-  - Visualização de dados com gráficos
+  - Visualização de dados com gráficos Matplotlib e Seaborn
 
 # 💻 Práticas desenvolvidas
-
-- [ ] Leitura de arquivos CSV
-
-- [ ] Transformação e criação de novas colunas
-
-- [ ] Análise exploratória de dados (EDA)
-
-- [ ] Criação de gráficos para identificar padrões
+- Importar e manipular bases de dados
+- Limpar e tratar dados inconsistentes ou incompletos
+- Transformar dados e criar novas variáveis para análise
+- Filtrar e organizar informações conforme a necessidade da análise
+- Realizar análises exploratórias (EDA) para identificar padrões e tendências
+- Criar visualizações gráficas para facilitar a interpretação dos dados
+- Extrair insights iniciais a partir das informações analisadas
+- Utilizar a biblioteca Pandas para manipulação eficiente de dados
 
 # 📊 Projeto do mês
 
