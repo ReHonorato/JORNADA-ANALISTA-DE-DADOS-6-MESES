@@ -8,7 +8,7 @@ Construir fundamentos sólidos em banco de dados e aprender a realizar consultas
 
 # 📚 Conteúdos
 
-- [ ] Introdução à área de Análise de Dados
+- [x] Introdução à área de Análise de Dados
 
 - [ ] Conceitos de banco de dados relacionais
 
