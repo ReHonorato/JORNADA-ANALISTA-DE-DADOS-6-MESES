@@ -55,7 +55,7 @@ Python -> Graficos para entender tendências e apoio para entender padrões (vis
 -- =====================================================================================
 
 DESCRITIVA - O que aconteceu?
-DIAGNÓSTICA - Po que aconteceu?
+DIAGNÓSTICA - Por que aconteceu?
 PREDITIVA - O que vai acontecer?
-PRESCRITIVA - O devemos fazer?
+PRESCRITIVA - O que precisa ser feito ?
 
