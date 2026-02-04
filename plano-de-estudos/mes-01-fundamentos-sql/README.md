@@ -10,7 +10,7 @@ Construir fundamentos sólidos em banco de dados e aprender a realizar consultas
 
 - [x] Introdução à área de Análise de Dados
 
-- [ ] Conceitos de banco de dados relacionais
+- [x] Conceitos de banco de dados relacionais
 
 - [ ] Tabelas, registros, campos
 
