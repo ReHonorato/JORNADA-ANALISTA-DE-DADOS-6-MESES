@@ -12,11 +12,11 @@ Construir fundamentos sólidos em banco de dados e aprender a realizar consultas
 
 - [x] Conceitos de banco de dados relacionais
 
-- [ ] Tabelas, registros, campos
+- [x] Tabelas, registros, campos
 
-- [ ] Chaves primárias e estrangeiras
+- [x] Chaves primárias e estrangeiras
 
-- [ ] Relacionamentos entre tabelas
+- [x] Relacionamentos entre tabelas
 
 - [ ] Consultas básicas:
 
