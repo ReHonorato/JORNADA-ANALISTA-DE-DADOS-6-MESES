@@ -51,11 +51,13 @@ MODELAGEM DE DADOS
 
 O processo de modelagem tem três fases principais:
 
-CONCEITUAL: Aqui voce vai pensar no negócio. que tipos de dados quero guardar? Desenhe caixas com o nome das entidades.Pergunte-se; colo elas interagem? defina os relacionamentos entre as entidades.
+CONCEITUAL: Aqui você vai pensar no negócio.
+Que tipos de dados quero guardar? 
+Desenhe caixas com o nome das entidades. Pergunte-se; como elas interagem? Defina os relacionamentos entre as entidades.
 
 LOGICO: Nesta etapa definimos as Colunas e as chaves (PK, FK)
 
 FISICO: Transformar a logica para os códigos.  Aqui vamos usar um SGBD.
-Primeiro criamos a tabela utilizando o comando SQL CREATE TABLE e define a tipagem dos dados (INT, VARCHAR, DATE..)
+Primeiro criamos a tabela utilizando o comando SQL CREATE TABLE e definimos a tipagem dos dados (INT, VARCHAR, DATE..)
 
 
